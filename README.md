@@ -10,8 +10,8 @@ This project analyzes and visualizes the distribution of funds allocated to vari
 
 # Libraries Used:
 
-Pandas: For data handling and manipulation.
-Matplotlib: For creating visualizations, including bar charts and pie charts.
+- Pandas: For data handling and manipulation.
+- Matplotlib: For creating visualizations, including bar charts and pie charts.
 
 # Example Visualization:
 
