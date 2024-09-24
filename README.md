@@ -15,5 +15,5 @@ This project analyzes and visualizes the distribution of funds allocated to vari
 
 # Example Visualization:
 
-Bar Chart: Displays fund allocation per department.
-Pie Chart: Represents the percentage distribution of the overall budget.
+- Bar Chart: Displays fund allocation per department.
+- Pie Chart: Represents the percentage distribution of the overall budget.
